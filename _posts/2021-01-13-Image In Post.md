@@ -2,6 +2,7 @@
 layout: post-light-feature
 title: Image in Post
 description: "The dark oak. The pink blossoms."
+comments: true
 categories: articles
 date: 2021-01-13
 image: 
