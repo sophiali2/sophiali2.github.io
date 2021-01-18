@@ -1,26 +1,21 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
+title: Signed, Sophia Li
+description: 
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+This is, simply, a home for thoughts. It has always been a goal of mine to document my writing process and the first year of university seemed to be a natural starting point. I have never been a prolific writer, but I see the value in documenting these loose images and snapshots of time - each a paint stroke, each an impression. 
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+### About
+Sophia Li is a student at Yale University looking to double major in English and Molecular Biology. Native to New York City, she finds comfort in the business, characteristic of a "New Yorker," and the briskness the aged brick buildings command. When free, she can be found rereading Kafka on the Shore, learning how to watercolor, or diligently watering her only succulent.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+### Contact Me
+**[LinkedIn](https://www.linkedin.com/in/sophia-li-308b1718a/)**
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+**[Instagram](https://www.instagram.com/soph.ia.li/)**
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+**Email** (sophyli2011@gmail.com)
